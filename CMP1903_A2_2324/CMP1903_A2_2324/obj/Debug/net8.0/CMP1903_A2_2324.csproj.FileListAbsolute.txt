@@ -1,0 +1,14 @@
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\CMP1903_A2_2324.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\CMP1903_A2_2324.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\CMP1903_A2_2324.AssemblyInfo.cs
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\CMP1903_A2_2324.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\bin\Debug\net8.0\CMP1903_A2_2324.exe
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\bin\Debug\net8.0\CMP1903_A2_2324.deps.json
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\bin\Debug\net8.0\CMP1903_A2_2324.runtimeconfig.json
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\bin\Debug\net8.0\CMP1903_A2_2324.dll
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\bin\Debug\net8.0\CMP1903_A2_2324.pdb
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\CMP1903_A2_2324.dll
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\refint\CMP1903_A2_2324.dll
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\CMP1903_A2_2324.pdb
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\CMP1903_A2_2324.genruntimeconfig.cache
+C:\Users\Josh\source\repos\A2-main\CMP1903_A2_2324\CMP1903_A2_2324\obj\Debug\net8.0\ref\CMP1903_A2_2324.dll
